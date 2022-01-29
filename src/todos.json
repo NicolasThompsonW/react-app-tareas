@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "title": "tarea 1",
+      "responsable": "Mark",
+      "description": "lorem ipsum",
+      "priority": "low"
+    },
+    {
+      "title": "tarea 2",
+      "responsable": "Ryan",
+      "description": "lorem ipsum",
+      "priority": "medium"
+    },
+    {
+      "title": "tarea 3",
+      "responsable": "Joseph",
+      "description": "lorem ipsum",
+      "priority": "high"
+    },
+    {
+      "title": "tarea 4",
+      "responsible": "Joe",
+      "description": "lorem ipsum",
+      "priority": "low"
+    },
+    {
+      "title": "tarea 5",
+      "responsible": "Cameron",
+      "description": "lorem ipsum",
+      "priority": "medium"
+    }
+  ]
+}
